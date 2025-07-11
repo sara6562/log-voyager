@@ -1,0 +1,10 @@
+{
+  "name": "log-voyager",
+  "version": "0.1.0",
+  "description": "Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
